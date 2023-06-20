@@ -10,7 +10,7 @@
 :smile: Pronouns: He/His <br>
 :zap: Fun fact: I am always learning something new
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "50px" height ="50px"> Socials</h2>
-![Behance](https://www.behance.net/muhammadarslan87) ![Instagram](https://www.instagram.com/maherarslan325) ![LinkedIn](https://www.linkedin.com/in/muhammad-arslan-6191b4176)
+![Behance](https://www.behance.net/muhammadarslan87) ![LinkedIn]([https://www.linkedin.com/in/muhammad-arslan-6191b4176](https://www.linkedin.com/in/muhammad-usama-satti-496401203/))
 <h2>:computer:Tech Stack</h2>
 !Dart !HTML5 !CSS3 !C++ !Firebase !Flutter !Laravel
 <h2>:bar_chart:GitHub Stats :</h2>
